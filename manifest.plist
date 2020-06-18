@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://cydj.sysssc.com:4080/staticdic/ios/wly.ipa</string>
+					<string>https://cydj.sysssc.com:4080/staticdic/default_cover/3.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://cydj.sysssc.com:4080/staticdic/ios/wly.ipa</string>
+					<string>https://cydj.sysssc.com:4080/staticdic/default_cover/3.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
